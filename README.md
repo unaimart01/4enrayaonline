@@ -1,4 +1,4 @@
-# 4enrayaonline
+# 4 en raya online
 
 El 4 en raya tiene dos modos de visualización:
 
